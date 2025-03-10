@@ -67,7 +67,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'SyncFusion',
         'USER': 'root',
-        'PASSWORD': 'Harsh25@',
+        'PASSWORD': 'password123',
         'HOST': 'localhost',
         'PORT': '3306',
     }
